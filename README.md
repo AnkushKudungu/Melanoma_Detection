@@ -35,7 +35,7 @@
 
 ## Acknowledgements
 Give credit here.
--This project was inspired by Upgrad's Advance Regression Assignment
+-This project was inspired by Upgrad's Melanoma Detection Assignment
 
 
 
